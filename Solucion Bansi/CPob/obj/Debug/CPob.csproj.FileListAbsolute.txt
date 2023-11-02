@@ -1,0 +1,18 @@
+C:\Users\danns\source\repos\WebApplication1\CPob\bin\Debug\CPob.dll
+C:\Users\danns\source\repos\WebApplication1\CPob\bin\Debug\CPob.pdb
+C:\Users\danns\source\repos\WebApplication1\CPob\bin\Debug\apiexamen.dll.dll
+C:\Users\danns\source\repos\WebApplication1\CPob\bin\Debug\apiexamen.dll.pdb
+C:\Users\danns\source\repos\WebApplication1\CPob\obj\Debug\CPob.csprojAssemblyReference.cache
+C:\Users\danns\source\repos\WebApplication1\CPob\obj\Debug\CPob.csproj.CoreCompileInputs.cache
+C:\Users\danns\source\repos\WebApplication1\CPob\obj\Debug\CPob.csproj.CopyComplete
+C:\Users\danns\source\repos\WebApplication1\CPob\obj\Debug\CPob.dll
+C:\Users\danns\source\repos\WebApplication1\CPob\obj\Debug\CPob.pdb
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\CPob\bin\Debug\CPob.dll
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\CPob\bin\Debug\CPob.pdb
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\CPob\bin\Debug\apiexamen.dll.dll
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\CPob\bin\Debug\apiexamen.dll.pdb
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\CPob\obj\Debug\CPob.csproj.AssemblyReference.cache
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\CPob\obj\Debug\CPob.csproj.CoreCompileInputs.cache
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\CPob\obj\Debug\CPob.csproj.CopyComplete
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\CPob\obj\Debug\CPob.dll
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\CPob\obj\Debug\CPob.pdb

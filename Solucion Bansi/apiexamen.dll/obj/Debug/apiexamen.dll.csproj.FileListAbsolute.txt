@@ -1,0 +1,12 @@
+C:\Users\danns\source\repos\WebApplication1\apiexamen.dll\bin\Debug\apiexamen.dll.dll
+C:\Users\danns\source\repos\WebApplication1\apiexamen.dll\bin\Debug\apiexamen.dll.pdb
+C:\Users\danns\source\repos\WebApplication1\apiexamen.dll\obj\Debug\apiexamen.dll.csprojAssemblyReference.cache
+C:\Users\danns\source\repos\WebApplication1\apiexamen.dll\obj\Debug\apiexamen.dll.csproj.CoreCompileInputs.cache
+C:\Users\danns\source\repos\WebApplication1\apiexamen.dll\obj\Debug\apiexamen.dll.dll
+C:\Users\danns\source\repos\WebApplication1\apiexamen.dll\obj\Debug\apiexamen.dll.pdb
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\apiexamen.dll\bin\Debug\apiexamen.dll.dll
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\apiexamen.dll\bin\Debug\apiexamen.dll.pdb
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\apiexamen.dll\obj\Debug\apiexamen.dll.csproj.AssemblyReference.cache
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\apiexamen.dll\obj\Debug\apiexamen.dll.csproj.CoreCompileInputs.cache
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\apiexamen.dll\obj\Debug\apiexamen.dll.dll
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\apiexamen.dll\obj\Debug\apiexamen.dll.pdb

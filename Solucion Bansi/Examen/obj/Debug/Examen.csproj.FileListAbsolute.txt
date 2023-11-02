@@ -1,0 +1,30 @@
+C:\Users\danns\source\repos\WebApplication1\Examen\bin\Debug\Examen.exe.config
+C:\Users\danns\source\repos\WebApplication1\Examen\bin\Debug\Examen.exe
+C:\Users\danns\source\repos\WebApplication1\Examen\bin\Debug\Examen.pdb
+C:\Users\danns\source\repos\WebApplication1\Examen\bin\Debug\apiexamen.dll.dll
+C:\Users\danns\source\repos\WebApplication1\Examen\bin\Debug\CPob.dll
+C:\Users\danns\source\repos\WebApplication1\Examen\bin\Debug\apiexamen.dll.pdb
+C:\Users\danns\source\repos\WebApplication1\Examen\bin\Debug\CPob.pdb
+C:\Users\danns\source\repos\WebApplication1\Examen\obj\Debug\Examen.csprojAssemblyReference.cache
+C:\Users\danns\source\repos\WebApplication1\Examen\obj\Debug\Examen.Form1.resources
+C:\Users\danns\source\repos\WebApplication1\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\danns\source\repos\WebApplication1\Examen\obj\Debug\Examen.csproj.GenerateResource.cache
+C:\Users\danns\source\repos\WebApplication1\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\danns\source\repos\WebApplication1\Examen\obj\Debug\Examen.csproj.CopyComplete
+C:\Users\danns\source\repos\WebApplication1\Examen\obj\Debug\Examen.exe
+C:\Users\danns\source\repos\WebApplication1\Examen\obj\Debug\Examen.pdb
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\bin\Debug\Examen.exe.config
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\bin\Debug\Examen.exe
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\bin\Debug\Examen.pdb
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\bin\Debug\apiexamen.dll.dll
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\bin\Debug\CPob.dll
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\bin\Debug\apiexamen.dll.pdb
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\bin\Debug\CPob.pdb
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\obj\Debug\Examen.Form1.resources
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\obj\Debug\Examen.Properties.Resources.resources
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\obj\Debug\Examen.csproj.GenerateResource.cache
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\obj\Debug\Examen.csproj.CopyComplete
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\obj\Debug\Examen.exe
+C:\Users\danns\Desktop\Nueva carpeta\Solucion Bansi\Examen\obj\Debug\Examen.pdb
